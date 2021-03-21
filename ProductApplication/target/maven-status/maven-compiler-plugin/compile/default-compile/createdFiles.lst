@@ -1,0 +1,5 @@
+com\imrantechsoft\ProductRepository.class
+com\imrantechsoft\AppController.class
+com\imrantechsoft\AppMain.class
+com\imrantechsoft\Product.class
+com\imrantechsoft\ProductService.class
